@@ -6,7 +6,7 @@ import android.view.View
 import android.widget.ImageButton
 import android.widget.ImageView
 import java.util.*
-
+// test proba
 class MainActivity : Activity() {
     var imSemafor: ImageView? = null
     var counter:Int = 0
